@@ -4,11 +4,7 @@ FONTS
 ==========
 	src: url(./font/Catamaran/Catamaran-VariableFont_wght.ttf);
 */
-@font-face {
-  font-family: "Catamaran";
-  src: url(./font/Catamaran/static/Catamaran-Regular.ttf);
-  font-weight: 400;
-}
+
 
 @font-face {
   font-family: "Catamaran";
